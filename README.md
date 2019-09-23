@@ -6,8 +6,8 @@ This is a usefull light-weight android app which is used for registering call no
 using this app users can capture short notes quickly whenever they need.
 - app written in java 
 ---
- # Features                                          
-                                                <img src="Images/tempsnip.png">
+ # Features                 <img src="Images/tempsnip.png">                                     
+                                          
 
  - Oncall push Notification                                         
  - SQL 
