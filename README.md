@@ -1,11 +1,11 @@
-  # callmemo   - android-app                                                      <img src="Images/logo.png" width="100">
+  # callmemo   - Android-App                                                      <img src="Images/logo.png" width="100">
  
- #### this app is the only fully functional and published app during 2019 Metropolia first year IT Department android app development period 
+ #### This app is the only fully functional and published app during first year IT Department android app development period (2019 Metropolia)
  
  ----
 
-. This is a usefull light-weight android app which is used for registering call notes  while on call.
-using this app users can capture short notes quickly whenever they need.
+. This app is a usefull light-weight android app which is used for registering call notes  while on call.
+  using this app users can capture short notes quickly whenever they need.
 - app written in java 
 ---
  # Features         
@@ -17,6 +17,9 @@ using this app users can capture short notes quickly whenever they need.
 
  
  
+ 
+ 
+ 
  - Oncall push Notification                                         
  - SQLite 
  - Access to phone contact 
@@ -25,7 +28,7 @@ using this app users can capture short notes quickly whenever they need.
  - Share callnotes
  
  
- <img src="Images/tempsnip.png">          <img src="Images/screen2.jpg" width="400">                                  
+ <img src="Images/tempsnip.png">          <img src="Images/screen2.jpg" width="350">                                  
                                           
 
 
@@ -37,10 +40,10 @@ using this app users can capture short notes quickly whenever they need.
 
 ---
 
-#### [Link to Java_Doc](http://users.metropolia.fi/~beselama/callmemoJ_DOC/index.html)
+####  [Link to Java_Doc](http://users.metropolia.fi/~beselama/callmemoJ_DOC/index.html)
 
 ---
 
-#### [Download the app from playstore](https://play.google.com/store/apps/details?id=com.callmemonew.gbese.callmemo&hl=en)
+####  [Download the app from playstore](https://play.google.com/store/apps/details?id=com.callmemonew.gbese.callmemo&hl=en)
 
 
