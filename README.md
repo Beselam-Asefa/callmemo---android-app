@@ -1,4 +1,4 @@
-  # callmemo   - android-app                                        <img src="Images/logo.png" width="100">
+  # callmemo   - android-app                                                      <img src="Images/logo.png" width="100">
  
  ### the only fully functional and published app during 2019 Metropolia first year IT Department android app development session 
 
